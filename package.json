@@ -1,0 +1,12 @@
+{
+  "name": "kWI3y9Es1aJWFzls3CDr6dbyq5GYRIhZkfkouiQl3CDr7rszQK",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "ไก่ชนออนไลน์ Ufabet.Com ทว่า ไก่ชนออนไลน์ UFA365 เว็บพนันออนไลน์ อันดับหนึ่ง และ ไก่ชนออนไลน์ Betufa.Comหลายท่านที่สมัครยูฟ่าเบทและเป็นมือใหม่หัดเล่นเว็บ W",
+  "repository": "https://github.com/gullibles-02/indoor-11",
+  "keywords": ["ไก่ชนออนไลน์","ไก่ชนออนไลน์ UFA365"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
