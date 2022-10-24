@@ -1,10 +1,13 @@
 {
-  "name": "kZJFYyuCvxEnzJPpAMUZ0KYmQ9ozwbX7U5GY0UX33HtWA78CXN",
+  "name": "ม้าแข่งออนไลน์ - เว็บพนัน play168(เพลล์168) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "ม้าแข่งออนไลน์ สัญลักษณ์พิเศษเทพเจ้ามายันสีทอง ตาม ม้าแข่งออนไลน์ ที่ Play168 เว็บพนัน อันดับหนึ่ง เป็นสัญลักษณ์ที่มีอัตราจ่ายสูงที่สุดในเกมสล็อต Treasures",
   "repository": "https://github.com/gullibles-02/indoor-11",
-  "keywords": ["ม้าแข่งออนไลน์","ม้าแข่งออนไลน์ Play168"],
+  "keywords": [
+    "ม้าแข่งออนไลน์",
+    "ม้าแข่งออนไลน์ Play168"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
