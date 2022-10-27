@@ -1,10 +1,13 @@
 {
-  "name": "NcZXs4A0yH8vksi4MXVQAWC8NDEZTkbarqmLgsPsn2munOsVyZ",
+  "name": "ผลหวยหุ้นวันนี้เฮียพูน สมัครยังไง - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.43",
   "description": "ผลหวยหุ้นวันนี้เฮียพูน ขั้นตอนที่ จนถึง ผลหวยหุ้นวันนี้เฮียพูน Huay Happy หวยออนไลน์ อันดับหนึ่ง 3 ผลหวยหุ้นวันนี้เฮียพูน  เพียงเท่านี้ก็จะเข้ามาสู่หน้าเล่",
   "repository": "https://github.com/gullibles-02/indoor-11",
-  "keywords": ["ผลหวยหุ้นวันนี้เฮียพูน","ผลหวยหุ้นวันนี้เฮียพูน Huay Happy"],
+  "keywords": [
+    "ผลหวยหุ้นวันนี้เฮียพูน",
+    "ผลหวยหุ้นวันนี้เฮียพูน Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
