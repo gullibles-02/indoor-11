@@ -1,10 +1,13 @@
 {
-  "name": "Dl4Xzgf4Tk2DLKmSzsOQlAJHZlrV34BNrF5WDLykUEngBcT6oV",
+  "name": "สูตรหวยจับยี่กี มีคำตอบ - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.19",
   "description": "สูตรหวยจับยี่กี หมายเหตุ อย่างไรก็ตาม สูตรหวยจับยี่กี Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด สูตรหวยจับยี่กี หวยทุกประเภทอิงตามเวลาประเทศไทย",
   "repository": "https://github.com/gullibles-02/indoor-11",
-  "keywords": ["สูตรหวยจับยี่กี","สูตรหวยจับยี่กี Thailotto"],
+  "keywords": [
+    "สูตรหวยจับยี่กี",
+    "สูตรหวยจับยี่กี Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
