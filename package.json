@@ -1,10 +1,16 @@
 {
-  "name": "IRwFApBklnb92y82juZczN4B11wAd8E7iPDFqn6nMGnFwY8TZ9",
+  "name": "เว็บ win แตกต่างกันอย่างไร - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.13",
   "description": "เว็บ win ปัจจุบันนี้หวยธนาคารไทยเริ่มมีเงื่อนไขการวางเดิมพันที่ค่อนข้างซับซ้อน ได้แก่ เว็บ win Huaysod หวยออนไลน์ อันดับหนึ่ง และมีการชี้แจงรายละเอียดที่ไม",
   "repository": "https://github.com/gullibles-02/indoor-11",
-  "keywords": ["เว็บ WIN","เว็บ","WIN","เว็บ Huaysod","WIN Huaysod"],
+  "keywords": [
+    "เว็บ WIN",
+    "เว็บ",
+    "WIN",
+    "เว็บ Huaysod",
+    "WIN Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
