@@ -1,10 +1,13 @@
 {
-  "name": "tYgAnO8037qfokwhctHvlA9VfJYxCL642K3S51hgwrvxBYh0G1",
+  "name": "ตรวจหวย16864 สรุปว่าอะไร - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.33",
   "description": "ตรวจหวย16/8/64 ตรวจผลการออกรางวัลหวยพม่า จนถึง ตรวจหวย16/8/64 ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง 2d 3d ผลหวยพม่า 010665 ตรวจหวยพม่าวันนี้ งวดวันที่ 1 ",
   "repository": "https://github.com/gullibles-02/indoor-11",
-  "keywords": ["ตรวจหวย16/8/64","ตรวจหวย16/8/64 999Lucky"],
+  "keywords": [
+    "ตรวจหวย16/8/64",
+    "ตรวจหวย16/8/64 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
