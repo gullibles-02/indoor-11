@@ -1,10 +1,16 @@
 {
-  "name": "AWPYFWcXa5SxqY4LxGtu2OIEsQK4zE1GUkyMG97snFbgBwQmDn",
+  "name": "789pro ทางเข้า แตกต่างกันอย่างไร - เว็บใหม่ happyluke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.64",
   "description": "789pro ทางเข้า นักพนันมือใหม่สามารถเรียนรู้เข้าใจพื้นฐานการเล่นไพ่บาคาร่าได้ง่ายหากคุณกำลังมองหาเทคนิคเล่นบาคาร่าแบบวิเคราะห์ไพ่จากสถิติการเล่นก่อนหน้าจะใช",
   "repository": "https://github.com/gullibles-02/indoor-11",
-  "keywords": ["789PRO ทางเข้า","789PRO","ทางเข้า","789PRO Happyluke","ทางเข้า Happyluke"],
+  "keywords": [
+    "789PRO ทางเข้า",
+    "789PRO",
+    "ทางเข้า",
+    "789PRO Happyluke",
+    "ทางเข้า Happyluke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
