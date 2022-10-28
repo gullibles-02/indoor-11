@@ -1,10 +1,13 @@
 {
-  "name": "VL4MGboxYTEcpHtrshUbjCvfPBc8Hx2ltCH6ipqu9QOI1tShQM",
+  "name": "สถิติหวยลาวพัฒนา คืออะไร - เว็บใหม่ uwin789 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.57",
   "description": "สถิติหวยลาวพัฒนา ชุดแนวทางเลข ว่าด้วย สถิติหวยลาวพัฒนา Uwin789 ยูวิน หวยออนไลน์ มีหวยทุกชนิด 3 ตัว สถิติหวยลาวพัฒนา พร้อมหมุนไปกลับได้แก่359-395-593-539-93",
   "repository": "https://github.com/gullibles-02/indoor-11",
-  "keywords": ["สถิติหวยลาวพัฒนา","สถิติหวยลาวพัฒนา Uwin789"],
+  "keywords": [
+    "สถิติหวยลาวพัฒนา",
+    "สถิติหวยลาวพัฒนา Uwin789"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
