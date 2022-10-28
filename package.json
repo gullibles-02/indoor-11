@@ -1,10 +1,13 @@
 {
-  "name": "BjfkYkPS40nk4drqek5zW0VwYPnjI0LXYy8841H9hrlDva0sn6",
+  "name": "สดฮั่งเส็งบ่าย แตกต่างกันอย่างไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "สดฮั่งเส็งบ่าย ดูบอลสด แม้ว่า สดฮั่งเส็งบ่าย Huay หวย หวยออนไลน์ มีหวยทุกชนิด แมนยู วันนี้ ดูบอลสด เอฟเวอร์ตัน Vs แมนยู ดูบอลสด เอฟเวอร์ตัน พบ แมนยู ดูบอลส",
   "repository": "https://github.com/gullibles-02/indoor-11",
-  "keywords": ["สดฮั่งเส็งบ่าย","สดฮั่งเส็งบ่าย Huay"],
+  "keywords": [
+    "สดฮั่งเส็งบ่าย",
+    "สดฮั่งเส็งบ่าย Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
